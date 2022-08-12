@@ -14,7 +14,15 @@
   "author": "Jorge Lemus <lemus777@gmail.com>",
   "license": "MIT",
   "bin": {
-    "random-msg": "./bin/global.js"
+    "random-msg": "bin/global.js"
   },
-  "preferGlobal": true
+  "preferGlobal": true,
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lemus777/random-messages.git"
+  },
+  "bugs": {
+    "url": "https://github.com/lemus777/random-messages/issues"
+  },
+  "homepage": "https://github.com/lemus777/random-messages#readme"
 }
